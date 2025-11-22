@@ -1,7 +1,7 @@
 {
   "allmedia" :[
     {
-      "date": 22/11/25,
+      "date": "22/11/25",
       "finished": false,
       "score": "?/10",
       "serieport": "https://image.tmdb.org/t/p/w600_and_h900_face/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
@@ -9,15 +9,15 @@
       "thought": "Look good. I like these type of series, when i finish this i post my honest opinion"
     },
     {
-      "date": 19/11/25,
+      "date": "19/11/25",
       "finished": false,
       "score": "?/10",
-      "serieport" "https://image.tmdb.org/t/p/w600_and_h900_face/2eAPjPjkkiF10vOiHjECRIDXqtd.jpg",
+      "serieport": "https://image.tmdb.org/t/p/w600_and_h900_face/2eAPjPjkkiF10vOiHjECRIDXqtd.jpg",
       "serie": "Serial experiments lain",
       "thought": "This like so good. I love the animes, i love the main plot"
     },
     {
-      "date": 5/11/25,
+      "date": "5/11/25",
       "liked": true,
       "score": "9.2/10",
       "album": "Load my revolver, baby",
