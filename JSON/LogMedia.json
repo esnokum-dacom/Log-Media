@@ -4,7 +4,7 @@
       "date": "22/11/25",
       "finished": false,
       "score": "?/10",
-      "serieport": "https://image.tmdb.org/t/p/w600_and_h900_face/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+      "imageport": "https://image.tmdb.org/t/p/w600_and_h900_face/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
       "serie": "The Withcher",
       "thought": "Look good. I like these type of series, when i finish this i post my honest opinion"
     },
@@ -12,7 +12,7 @@
       "date": "19/11/25",
       "finished": false,
       "score": "?/10",
-      "serieport": "https://image.tmdb.org/t/p/w600_and_h900_face/2eAPjPjkkiF10vOiHjECRIDXqtd.jpg",
+      "imageport": "https://image.tmdb.org/t/p/w600_and_h900_face/2eAPjPjkkiF10vOiHjECRIDXqtd.jpg",
       "serie": "Serial experiments lain",
       "thought": "This like so good. I love the animes, i love the main plot"
     },
@@ -21,7 +21,7 @@
       "liked": true,
       "score": "9.2/10",
       "album": "Load my revolver, baby",
-      "albumart": "https://ia803203.us.archive.org/28/items/mbid-2b77dacb-45aa-4a88-a4b7-0497f361d172/mbid-2b77dacb-45aa-4a88-a4b7-0497f361d172-15214195950.png",
+      "imageport": "https://ia803203.us.archive.org/28/items/mbid-2b77dacb-45aa-4a88-a4b7-0497f361d172/mbid-2b77dacb-45aa-4a88-a4b7-0497f361d172-15214195950.png",
       "thought": "i know this album for one reason... tiktok, the song was a shi trend. I liked this album, i liten this once a day, this album is on my favourites"
     }
   ]
