@@ -1,6 +1,7 @@
 {
   "allmedia" :[
     {
+      "type": "Music",
       "date": "5/11/25",
       "finished": true,
       "score": "9.2/10",
@@ -9,6 +10,7 @@
       "thought": "i know this album for one reason... tiktok, the song was a shi trend. I liked this album, i liten this once a day, this album is on my favourites"
     },
     {
+      "type": "Music",
       "date": "20/11/25",
       "finished": true,
       "score": "11/10",
@@ -17,6 +19,7 @@
       "thought": "This album... is beautiful, when i hear this for the first time, i went crazy, is a new experience in music, pls hear this"
     },
     {
+      "type": "Music",
       "date": "23/11/25",
       "finished": true,
       "score": "9.5/10",
@@ -25,6 +28,7 @@
       "thought": "I love too much the japanese albums jazz, this album have the 3 things i love, jazz, jazz, and piano jazz JAJAJA, so good this album, i love that"
     },
     {
+      "type": "Animé",
       "date": "19/11/25",
       "finished": false,
       "score": "?/10",
@@ -33,6 +37,7 @@
       "thought": "This like so good. I love the animes, i love the main plot"
     },
     {
+      "type": "Serie",
       "date": "22/11/25",
       "finished": false,
       "score": "?/10",
@@ -41,6 +46,7 @@
       "thought": "Look good. I like these type of series, when i finish this i post my honest opinion"
     },
     {
+      "type": "Animé",
       "date": "24/11/25",
       "finished": true,
       "score": "11🥀/10",
