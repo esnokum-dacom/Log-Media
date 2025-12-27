@@ -30,20 +30,20 @@
     {
       "type": "Animé",
       "date": "19/11/25",
-      "finished": false,
-      "score": "?/10",
+      "finished": true,
+      "score": "10/10",
       "imageport": "https://image.tmdb.org/t/p/w600_and_h900_face/2eAPjPjkkiF10vOiHjECRIDXqtd.jpg",
       "medianame": "Serial experiments lain",
-      "thought": "This like so good. I love the animes, i love the main plot"
+      "thought": "this is like a smoke, holy shi... I like it but what the hell is this, colors, voices, computers, LINUX!. The best anime i've seen. The main character is so good, the trama, the references of the real life, so interesting this serie, i love it. Recomended"
     },
     {
       "type": "Serie",
-      "date": "22/11/25",
-      "finished": false,
-      "score": "?/10",
+      "date": "24/12/25",
+      "finished": true,
+      "score": "8.9/10",
       "imageport": "https://image.tmdb.org/t/p/w600_and_h900_face/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
       "medianame": "The Withcher",
-      "thought": "Look good. I like these type of series, when i finish this i post my honest opinion"
+        "thought": "Ok... I am disgusted, the last season is the worst season i've saw in my life, the first season is the best but... the change of actor for a randy, idk. I love this serie, i started the game 'The witcher 3', but the last seasons in the series is the mostly bad season"
     },
     {
       "type": "Animé",
@@ -152,6 +152,51 @@
       "imageport": "https://a1.mzstatic.com/r40/Music211/v4/04/55/88/04558895-f8c0-67e0-c787-29bd52245681/199284239753_cover.jpg",
       "medianame": "A breath of fresh air",
       "thought": "OMG, i love this piece of art, hey. Is good for every time, buttt. Is good but is so ambiental music, for other times, not for every time. Yk what i say. Alr but for other types is so good this album, i love the music like this, in general i love the jazz music. Recommended"
+    },
+    {
+      "type": "Music",
+      "date": "18/12/25",
+      "finished": true,
+      "score": "3/10",
+      "imageport": "https://m.media-amazon.com/images/I/712bGyk8+kL.jpg",
+      "medianame": "Drukqs",
+      "thought": "this is so bored... The people who like 'Apex Twin', only love one song called 'Xtal', other songs is strange for Apex Twin fans, anyways this album it's bored. Is not for me, thanks"
+    },
+    {
+      "type": "Music",
+      "date": "21/12/25",
+      "finished": true,
+      "score": "9/10",
+      "imageport": "https://m.media-amazon.com/images/I/71tLWHX97FL.jpg",
+      "medianame": "Ábout de souffle",
+      "thought": "Alr, is so interesting this album, i love the slow jazz, the sax, the piano, etc. I love it. Is relax, is so good this album, i've heard the 'New York Herald' before heard the whole album and it liked it. Anyways"
+    },
+    {
+      "type": "Music",
+      "date": "14/12/25",
+      "finished": true,
+      "score": "7/10",
+      "imageport": "https://m.media-amazon.com/images/I/91HMuCXsUaL.jpg",
+      "medianame": "Giant Steps (Mono)",
+      "thought": "You all know i like too much jazz, but this album is kind of. Idk this album is good, but have too slow songs, no variation in instruments, etc. Don't misunderstand me, this album is good but is not my favourite, really."
+    },
+    {
+      "type": "Music",
+      "date": "14/12/25",
+      "finished": true,
+      "score": "15/10",
+      "imageport": "https://a1.mzstatic.com/r40/Music122/v4/4e/be/6f/4ebe6fb5-2355-98ff-fbf6-a4ba13752571/cover.jpg",
+      "medianame": "Symbiosis",
+      "thought": "I haven't words for describe this album, is beautiful, relaxed, energic, and was done in 1974. What do you want more, this album is so good, please heard this album, you all need listen it. Recomended"
+    },
+    {
+      "type": "Music",
+      "date": "23/12/25",
+      "finished": true,
+      "score": "12/10",
+      "imageport": "https://m.media-amazon.com/images/I/81S8hoaKU8L.jpg",
+      "medianame": "ALONE",
+      "thought": "Damn... Takanaka is the best artist in creation of 'Fusion jazz', takanaka can do a BOOM in my mind when i listen it. Takanaka is the best guitarrist i've ever heard, is the best making songs can make me smile, and... IS A JAPANESE, WTF YOU WANT..."
     }
   ]
 }
